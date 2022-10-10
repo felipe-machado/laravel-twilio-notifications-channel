@@ -1,11 +1,11 @@
 {
-    "name": "laravel-notification-channels/twilio",
+    "name": "felipe-machado/laravel-twilio-notifications-channel",
     "description": "Provides Twilio notification channel for Laravel",
     "keywords": ["laravel", "twilio", "notification", "sms", "call", "mms"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel-notification-channels/twilio/issues",
-        "source": "https://github.com/laravel-notification-channels/twilio"
+        "issues": "https://github.com/felipe-machado/laravel-twilio-notifications-channel/issues",
+        "source": "https://github.com/felipe-machado/laravel-twilio-notifications-channel"
     },
     "authors": [
         {
